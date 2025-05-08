@@ -1,11 +1,11 @@
 import Link from "next/link"
 import { Button } from "../app/components/ui/button"
 import Image from "next/image"
-import img1 from "../../public/img1.png"
+import img1 from "../../public/img4.webp"
 
 export default function Home() {
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="flex flex-col min-h-screen ">
       <header className="border-b">
         <div className="container flex h-16 items-center px-4 sm:px-6 lg:px-8">
           <h1 className="text-xl font-serif font-bold">Mental Wellness Coach</h1>
